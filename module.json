@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "osto-paste",
+	"author": "Cybours (original tera-paste), Initials",
+	"description": "Paste copied text into game chat.",
+	"version": "1.0.0",
+	"options": {
+		"cliName": "OSTO Paste",
+		"guiName": "OSTO Paste"
+	},
+	"conflicts": ["paste", "tera-paste"],
+	"servers": ["https://raw.githubusercontent.com/auswahlehn/osto-paste/main/"],
+	"supportUrl": "https://github.com/auswahlehn/osto-paste/issues"
+}
